@@ -1,0 +1,1 @@
+# Swift package for libsodium
